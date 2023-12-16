@@ -6,4 +6,4 @@
 </div>
 
 > [!IMPORTANT]
-> ***Note:*** This repository is exclusively for my personal notes. I will not be committing any content from Udacity. Thank you.
+> This repository is exclusively for my personal notes. I will not be committing any content from Udacity. Thank you.
