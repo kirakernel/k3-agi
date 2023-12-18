@@ -10,3 +10,25 @@ print(age)
 temperature = 29;
 temperature -= 9;
 print(temperature)
+
+num = 10
+num += 2
+print('+=', num)
+
+num -= 2
+print('-=', num)
+
+num *= 2
+print('*=', num)
+
+num **= 2
+print('**=', num)
+
+num /= 2
+print('/=', num)
+
+num //= 2
+print('//=', num)
+
+num %= 2
+print('%=', num)
